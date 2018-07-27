@@ -1,1 +1,2 @@
-# dog.rb
+def dog
+  # dog.rb
